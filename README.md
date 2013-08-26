@@ -1,7 +1,7 @@
 # SkeletonApp #
 
 Skeleton Scala Web app using [Scalatra](http://scalatra.org/) and [sbt](http://www.scala-sbt.org/).
-It was adpted to be deployed on Heroku according to instructions found [here](http://scalatra.org/2.2/guides/deployment/heroku.html).
+It was adapted to be deployed on Heroku according to instructions found [here](http://scalatra.org/2.2/guides/deployment/heroku.html).
 
 ## Build & Run ##
 
